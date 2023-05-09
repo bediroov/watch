@@ -1,0 +1,143 @@
+.footer{
+    width: 100%;
+    height: auto;
+    background-color: black;
+  border-bottom: 2px solid white;
+.first{
+    width: 100%;
+    height: auto;
+
+
+    img{
+        width: 20%;
+        height: auto;
+
+    }
+    .tag{
+        width: 80%;
+        height: auto;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+    }
+}
+
+
+.second{
+    width: 100%;
+    height: auto;
+   
+
+    img{
+        width: 20%;
+        height: auto;
+
+    }
+    .write{
+        width: 80%;
+        height: auto;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+    }
+}
+
+
+.third{
+    width: 100%;
+    height: auto;
+   
+
+    img{
+        width: 20%;
+        height: auto;
+
+    }
+    .read{
+        width: 80%;
+        height: auto;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+    }
+}
+.birinci{
+    width: 100%;
+    height: auto;
+   
+    img{
+        width: 20%;
+        height: auto;
+    }
+
+    .yazi{
+        width: 80%;
+        height: auto;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+    }
+}
+
+.ikinci{
+    width: 100%;
+    height: auto;
+   
+    img{
+        width: 20%;
+        height: auto;
+    }
+
+    .komp{
+        width: 80%;
+        height: auto;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+    }
+}
+
+
+.ucuncu{
+    width: 100%;
+    height: auto;
+   
+    img{
+        width: 20%;
+        height: auto;
+    }
+
+    .tel{
+        width: 80%;
+        height: auto;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+    }
+}
+
+form{
+    width: 100%;
+    height: auto;
+
+    input{
+        width: 60%;
+        height: 50px;
+        background-color: black;
+
+    }
+
+    button{
+        width: 40%;
+        height: 50px;
+        background-color: darkgoldenrod;
+    }
+}
+
+}

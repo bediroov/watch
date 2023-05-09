@@ -1,0 +1,44 @@
+@media(max-width:1036px){
+
+    .headertwo{
+    
+        .lock{
+            display: none;
+        }
+    
+        .header-tool{
+            display: none;
+        }
+    }
+    
+    
+    
+    
+    
+    }
+    
+    
+    @media(max-width:652px){
+     .headertwo{
+
+        .group{
+        
+            display: none !important;
+                  
+               }
+     }
+    
+    
+        .logo{
+            width: 70%;
+            height: auto;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+    
+            img{
+           width: 100%;
+            }
+        }
+    
+        }
